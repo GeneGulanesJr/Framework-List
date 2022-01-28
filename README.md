@@ -12,3 +12,6 @@
 []()
 []()
 []()
+
+#IDEA 1
+-[Technical Documentation] (https://codepen.io/freeCodeCamp/pen/NdrKKL) Technical Documentation Page
