@@ -2,7 +2,7 @@
   {
     "id": "recZkNf2kwmdBcqd0",
     "name": "Office Package",
-    "price": 14999,
+    "price": 1499999,
     "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160?ts=1650333465&userId=usrQMwWEPx18KgLcP&cs=6eb40b25444abe07",
     "colors": [
       "#ff0000",
@@ -10,14 +10,14 @@
       "#0000ff"
     ],
     "company": "Low End",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "description": "Office PC as the center of the office. In the modern office, the computer is usually the center of daily work. You use it to answer e-mails, participate in video chats and work with Word, Excel, and many other applications.",
     "category": "Packages",
     "shipping": true
   },
   {
     "id": "recNZ0koOqEmilmoz",
     "name": "Online Class Package",
-    "price": 25999,
+    "price": 2599999,
     "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160?ts=1650333465&userId=usrQMwWEPx18KgLcP&cs=6eb40b25444abe07",
     "colors": [
       "#ff0000",
@@ -25,7 +25,7 @@
       "#0000ff"
     ],
     "company": "Mid End",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "description": " A computer - either desktop or laptop - is the most basic tool necessary for completing an online class. The computer is used to access coursework, complete and submit assignments, and interact with professors and fellow students.",
     "category": "Packages",
     "shipping": true
   }
@@ -33,7 +33,7 @@
   {
     "id": "recrfxv3EwpvJwvjq",
     "name": "Gaming Package",
-    "price": 49999,
+    "price": 4999999,
     "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160?ts=1650333465&userId=usrQMwWEPx18KgLcP&cs=6eb40b25444abe07",
     "colors": [
       "#ff0000",
@@ -41,10 +41,23 @@
       "#0000ff"
     ],
     "company": "High End",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "description": "A gaming computer, also known as a gaming PC, is a specialized personal computer designed for playing video games at very high standards. Gaming PCs typically differ from mainstream personal computers by using high-performance video cards and high core-count central processing units with raw performance.",
     "category": "Packages",
     "shipping": true
+  },
+  {
+    "id": "recZkNf2Fwmdccqd2",
+    "name": "8 GB DDR4 2400mhz Corsair Ram",
+    "price": 149999,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160?ts=1650333465&userId=usrQMwWEPx18KgLcP&cs=6eb40b25444abe07",
+    "colors": [
+      "#ff0000",
+      "#00ff00",
+      "#0000ff"
+    ],
+    "company": "Low End",
+    "description": "Random access memory (RAM) is a computer's short-term memory, which it uses to handle all active tasks and apps. None of your programs, files, games, or streams would work without RAM",
+    "category": "Ram",
+    "shipping": true
   }
-  
-
 ]
