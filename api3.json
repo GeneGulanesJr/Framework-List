@@ -1,0 +1,148 @@
+{
+  "id": "rec1Ntk7siEEW9ha1",
+  "stock": 0,
+  "price": 23999,
+  "shipping": true,
+  "colors": [
+    "#0000ff",
+    "#000"
+  ],
+  "category": "bedroom",
+  "images": [
+    {
+      "id": "attY4SNpQuYCappA5",
+      "width": 1280,
+      "height": 720,
+      "url": "https://dl.airtable.com/.attachments/97a67b32630a587e482863a61861607b/547d4b22/product-6.jpg?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=89555b2339ee6077",
+      "filename": "product-6.jpg",
+      "size": 178908,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/2935146154fb5bae16e35b4441eedcb9/c73d1c14?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=cf8d2b0d047f10c7",
+          "width": 64,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=c7984fcc90a5343e",
+          "width": 910,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/6ac4bfe6e3a5c5f43ab5f69b6980822b/399dca36?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=91ac631382f918ab",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+    {
+      "id": "att3O2p00oz6N6H9w",
+      "width": 1000,
+      "height": 667,
+      "url": "https://dl.airtable.com/.attachments/df334b804882718486553d867f3a224a/91df3c15/extra-1.jpeg?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=deb761fca8374fb4",
+      "filename": "extra-1.jpeg",
+      "size": 102108,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/f774954002bd3cbadae1ffffd32c7cbd/64db3fc3?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=6e3e5fc8c5d30b54",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/803b538c02c8905b81b1aa4bd9d2ccc4/79b0b56e?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=d737dac95a6867c3",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/6ac10df8f0eb275f7695664162853d3a/db7c80a5?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=4ce0749f7792af90",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+    {
+      "id": "attwHH8JA00TWTHgC",
+      "width": 1000,
+      "height": 714,
+      "url": "https://dl.airtable.com/.attachments/87ff49e014a83712f8272cb968227aec/2a9397de/extra-2.jpeg?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=753f315e7bdcd8a2",
+      "filename": "extra-2.jpeg",
+      "size": 84418,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/386da59bd3962a8b459f418bbbfca689/9d079b37?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=c12a6a12332b5099",
+          "width": 50,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/b33194270cbab72b1336f7fed5c06e95/111a3973?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=0327e0994acc33d6",
+          "width": 717,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/5b5249b094978ff3c4ad534b86b67455/abcd076a?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=612734f9f42c5856",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+    {
+      "id": "att7hWYAvSnQL0MIL",
+      "width": 1000,
+      "height": 650,
+      "url": "https://dl.airtable.com/.attachments/9255b0553e99833c2f7baa54ee22576e/fec5b23b/extra-3.jpeg?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=2a012130bbf90226",
+      "filename": "extra-3.jpeg",
+      "size": 107838,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/c5f71c431f24dad07f0d4dcf2261eb45/7722e149?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=f5dda064412e541d",
+          "width": 55,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/0d863efd7b30d01de8b7c560bbadf38d/943b2092?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=e8cfff096b1c3c39",
+          "width": 788,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/3692749b1e67bc11ff9286e77b9e92f4/0804239f?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=9a73233861d66c68",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+    {
+      "id": "attzY5iQpCYUV6xzA",
+      "width": 1000,
+      "height": 667,
+      "url": "https://dl.airtable.com/.attachments/ef1e92dd68938d0226453603bf335038/20e81d4a/extra-4.jpeg?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=9887c4dcfef2fb84",
+      "filename": "extra-4.jpeg",
+      "size": 99481,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/6fbd3c2bb9c077f15bc5043e76c59187/1f98ab4d?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=f1cbd5e0384a6d7a",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/23eabfe25b802553de9c5abc225a65ac/2cee3ad0?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=a801ebf0b027a37d",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/0aae65b4443275e8b33912b158d7c0cb/df614602?ts=1650567056&userId=usrQMwWEPx18KgLcP&cs=f121f091b25ffbab",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  ],
+  "reviews": 60,
+  "stars": 5,
+  "name": "emperor bed",
+  "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+  "company": "ikea"
+}
