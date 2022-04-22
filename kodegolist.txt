@@ -1,0 +1,23 @@
+Capstone
+	Github - https://github.com/GeneGulanesJr/KodegoCapstone
+	Live Link - https://kodego-capstone.vercel.app
+
+Mini Project 1 - 
+	Github - https://github.com/GeneGulanesJr/KodeGoMiniProject1
+	Live Link - https://genegulanesjr.github.io/KodeGoMiniProject1/
+
+Mini Project 2 - 
+	Github - https://github.com/GeneGulanesJr/KodeGoMiniProject2
+	Live Link - https://kode-go-mini-project2.vercel.app/
+
+Portfolio
+	Github - https://github.com/GeneGulanesJr/GeneGulanesPortfolio
+	Live Link - https://www.genegulanesjr.tech/
+
+Coding Journal
+	Github - https://github.com/GeneGulanesJr/Kodego-Simple-Coding-Journal
+	Live Link - https://kodego-simple-coding-journal.vercel.app/
+
+eCalculator
+	Github - https://github.com/GeneGulanesJr/Kodego-eCalculator
+	Live Link - https://genegulanesjr.github.io/Kodego-eCalculator/
