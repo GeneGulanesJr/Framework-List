@@ -3,7 +3,7 @@
     "id": "recZkNf2kwmdBcqd0",
     "name": "Office Package",
     "price": 2599999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=55445c44c2df9df4",
+    "image": "https://media.discordapp.net/attachments/949245062355755032/957138063245590558/Package__1.png",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -18,8 +18,8 @@
   {
     "id": "recEHmzvupvT8ZONH",
     "name": "Online Class Package",
-    "price": 10999999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/0be1af59cf889899b5c9abb1e4db38a4/d631ac52?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=86045adb4b9ab506",
+    "price": 4000000,
+    "image": "https://media.discordapp.net/attachments/949245062355755032/958284884051374121/Package__5.png",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -34,8 +34,8 @@
   {
     "id": "rec5NBwZ5zCD9nfF0",
     "name": "Gaming Package",
-    "price": 30999999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/7478483f40a2f56662a87b304bd4e104/707d397f?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=1b735b0efff3198d",
+    "price": 27500000,
+    "image": "https://media.discordapp.net/attachments/949245062355755032/958284883703250985/Package__11.png",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -51,7 +51,7 @@
     "id": "recd1jIVIEChmiwhe",
     "name": "CPU - Intel i7-9XXXX",
     "price": 9999999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/530c07c5ade5acd9934c8dd334458b86/cf91397f?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=62e02d887b3ce515",
+    "image": "https://cf.shopee.ph/file/8c2756467a5fed17b2df8979950a4073",
     "company": "Parts",
     "description": "Intel processors are the most popular CPUs for desktops and laptops in the world. They're offered in a range of model families, with names like Core, Xeon, Pentium, and Celeron. They come in multiple generations like 9th, 10th, and 11th, also called Coffee Lake, Comet/Ice Lake, and Rocket/Tiger Lake.",
     "category": "CPU",
@@ -62,7 +62,7 @@
     "id": "recoM2MyHJGHLVi5l",
     "name": "CPU - AMD Ryzen 7XXXX",
     "price": 9999999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/a6119fabf7256049cc0e8dbcdf536c9c/b0153f66?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=3125708a86844d62",
+    "image": "https://c1.neweggimages.com/ProductImage/19-113-567-V11.jpg",
     "company": "Parts",
     "description": "An AMD processor can be used with the same software as an Intel� processor, but not the same motherboard. A new generation of AMD processor also aims to combine a CPU and graphics processor into a single chip. An AMD processor is a computer processor designed or manufactures by the Advanced Micro Devices company.",
     "category": "CPU",
@@ -71,9 +71,9 @@
   },
   {
     "id": "recotY5Nh00DQFdkm",
-    "name": "8GB DDR4 Ram 2666MHZ",
-    "price": 4299999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/7a38cf782907773d9900165530cfa583/d9f41960?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=391ed3a6a769fe49",
+    "name": "8GB DDR4 Ram 2400MHZ",
+    "price": 499999,
+    "image": "https://cf.shopee.ph/file/676b4f7c3e4a5486d369a62b901ed874",
     "colors": [
       "#00ff00",
       "#0000ff",
@@ -89,7 +89,7 @@
     "id": "rec1Ntk7siEEW9ha1",
     "name": "Intel Motherboard",
     "price": 2399999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=b61cb6004662d8ad",
+    "image": "https://m.media-amazon.com/images/I/51rhTydYBOL._AC_.jpg",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -105,7 +105,7 @@
     "id": "recNZ0koOqEmilmoz",
     "name": "Amd Motherboard",
     "price": 5999999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/65708b701baa3a84883ad48301624b44/2de058af?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=2c152d817ea1b288",
+    "image": "https://images.anandtech.com/doci/15868/ASUS%20ROG%20Strix%20B550-F%20Gaming%20WiFi%20Motherboard_575px.jpg",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -121,7 +121,7 @@
     "id": "recrfxv3EwpvJwvjq",
     "name": "1TB SSD",
     "price": 3999999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/1af97a4d3eb28563962d8e3520727ffc/1b9cc17f?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=e7f4b5fd4d6a468a",
+    "image": "https://m.media-amazon.com/images/I/718eEaTmJVL._AC_SL1500_.jpg",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -137,7 +137,7 @@
     "id": "recoW8ecgjtKx2Sj2",
     "name": "1TB HDD",
     "price": 2009999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/d3174ad774fc628e1d50b77e3bec399f/1de7b97a?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=ba5395451d030025",
+    "image": "https://cf.shopee.ph/file/fd9f72ff9e5fbcd392213edb111c9528",
     "colors": [
       "#ff0000",
       "#ffb900",
@@ -153,7 +153,8 @@
     "id": "recEOA6qtDag1hRbU",
     "name": "AMD 69XXXT GPU",
     "price": 9999999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/a2f371071cf292badbb621294758b600/ca963b31?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=e588c47431f8d0e1",
+
+    "image": "https://www.techspot.com/images/products/2020/graphics-cards/org/2020-12-08-product-j_1100.webp",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -167,9 +168,9 @@
   },
   {
     "id": "recoAJYUCuEKxcPSr",
-    "name": "NVIDIA 40XXTI GPU",
+    "name": "NVIDIA 30XXTI GPU",
     "price": 3199999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/1e4a818f5184993e430420a152315b40/873c7094?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=557e041562614624",
+    "image": "https://cdn.wccftech.com/wp-content/uploads/2021/06/nvidia-geforce-rtx-3080-ti-product-gallery-photo-003-scaled.jpg",
     "colors": [
       "#ffb900",
       "#ff0000",
@@ -185,7 +186,7 @@
     "id": "recQ0fMd8T0Vk211E",
     "name": "1000Watt PSU",
     "price": 998999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/89ba7458c24252be77f5a835dd398880/c13ef359?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=f3e8e6984e8161be",
+    "image": "https://m.media-amazon.com/images/I/71Ol9ncug1L._AC_SX679_.jpg",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -201,7 +202,7 @@
     "id": "rec7CjDWKRgNQtrKe",
     "name": "500Watt PSU",
     "price": 888888,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/2fd8fb02cc6fa5620504de41fbb662f9/3157a507?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=69afa7d7e0313c18",
+    "image": "https://thermaltake.azureedge.net/pub/media/catalog/product/cache/6bf0ed99c663954fafc930039201ed07/db/imgs/pdt/gallery/PS-SPR-0500NHFAWx-1_245eaab87b554bcb8aba949c7982b0c8.jpg",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -217,7 +218,7 @@
     "id": "recF0KpwlkF7e8kXO",
     "name": "24\" IPS Monitor",
     "price": 109999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/c9d46754faf94d2283e15ac3b8accb9a/a6c343c8?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=59072278686e1e18",
+    "image": "https://cf.shopee.ph/file/3753394efcbd2ea764401ecd689667bd",
     "colors": [
       "#ff0000",
       "#00ff00",
@@ -233,7 +234,7 @@
     "id": "recs5BSVU3qQrOj4E",
     "name": "24\" 240HZ Monitor",
     "price": 129999,
-    "image": "https://dl.airtable.com/.attachmentThumbnails/fe9d4f25fee307f6ae5b7a462b70b942/031464c4?ts=1650566995&userId=usrQMwWEPx18KgLcP&cs=bfc051cab9a3f9d7",
+    "image": "https://cdn.shopify.com/s/files/1/0355/8296/7943/products/615MxSZApDL._AC_SL1024.jpg?v=1599966052",
     "colors": [
       "#ff0000",
       "#00ff00",
